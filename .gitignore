@@ -1,0 +1,12 @@
+# Arquivos compilados
+*.class
+
+# Diretório de saída
+out/
+
+# Arquivos da IDE
+.idea/
+*.iml
+
+# Logs
+*.log
