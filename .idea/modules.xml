@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/03-arrays/03-arrays.iml" filepath="$PROJECT_DIR$/03-arrays/03-arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/04-colecoes/04-colecoes.iml" filepath="$PROJECT_DIR$/04-colecoes/04-colecoes.iml" />
       <module fileurl="file://$PROJECT_DIR$/05-metodos/05-metodos.iml" filepath="$PROJECT_DIR$/05-metodos/05-metodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-poo/06-poo.iml" filepath="$PROJECT_DIR$/06-poo/06-poo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-notes.iml" filepath="$PROJECT_DIR$/.idea/java-notes.iml" />
     </modules>
   </component>
