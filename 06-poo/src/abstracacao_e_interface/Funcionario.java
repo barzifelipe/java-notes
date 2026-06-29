@@ -16,12 +16,17 @@ Depois crie:
 
 Cada um deve calcular um bônus diferente.*/
 
-package abstracacao;
+package abstracacao_e_interface;
 
 public abstract class Funcionario {
 
-    String nome;
-    double salario;
+    protected String nome;
+    protected double salario;
+
+    public Funcionario(String nome, double salario) {
+        this.nome = nome;
+        this.salario = salario;
+    }
 
     public abstract double calcularBonus();
 }
