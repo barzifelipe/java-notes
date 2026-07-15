@@ -1,0 +1,17 @@
+
+ * Símbolos mais comuns em Regex:
+ *
+ * \d      -> dígito
+ * \w      -> letra, número ou _
+ * \s      -> espaço em branco
+ * .       -> qualquer caractere
+ * [abc]   -> a, b ou c
+ * [a-z]   -> letras minúsculas
+ * [A-Z]   -> letras maiúsculas
+ * [0-9]   -> números
+ *
+ * +       -> uma ou mais ocorrências
+ * *       -> zero ou mais ocorrências
+ * ?       -> zero ou uma ocorrência
+ * {n}     -> exatamente n ocorrências
+ * {n,m}   -> entre n e m ocorrências
