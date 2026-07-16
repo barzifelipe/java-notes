@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/08-arquivos/08-arquivos.iml" filepath="$PROJECT_DIR$/08-arquivos/08-arquivos.iml" />
       <module fileurl="file://$PROJECT_DIR$/09-strings/09-strings.iml" filepath="$PROJECT_DIR$/09-strings/09-strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/10-regex/10-regex.iml" filepath="$PROJECT_DIR$/10-regex/10-regex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-generics/11-generics.iml" filepath="$PROJECT_DIR$/11-generics/11-generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-notes.iml" filepath="$PROJECT_DIR$/.idea/java-notes.iml" />
     </modules>
   </component>
